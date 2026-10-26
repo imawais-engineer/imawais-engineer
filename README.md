@@ -72,17 +72,13 @@ Full list with write-ups: [imawais.engineer/projects](https://imawais.engineer/p
 |---|---|
 | [Skinova](https://github.com/imawais-engineer/Skinova) ([live](https://skinova-ai.vercel.app)) | AI skin analysis app built for the YouCam AI Hackathon |
 | [Memoria](https://github.com/imawais-engineer/Memoria) | Personal AI with human-like memory |
-| [mnemora](https://github.com/imawais-engineer/mnemora) | AI with strong memory and context |
 | [IdeaForge](https://github.com/imawais-engineer/IdeaForge) | Multi-agent "second brain" that turns vague ideas into structured execution plans |
 | [ClientOutreach](https://github.com/imawais-engineer/ClientOutreach) ([live](https://client-outreach-woad.vercel.app)) | Client outreach tool |
-| [Fill-Apply](https://github.com/imawais-engineer/Fill-Apply) | Form-filling and application automation |
-| [prompt-robustness-pilot](https://github.com/imawais-engineer/prompt-robustness-pilot) | Prompt robustness testing in Python |
 
 ## Experience
 - **Freelance AI Automation Engineer** (Upwork, Fiverr, direct clients): n8n, Make.com and AI agent builds for lead generation, CRM, support and reporting.
 - **Founder, MASoft:** software and web projects ([masoft-technologies](https://masoft-technologies.vercel.app), [masoft-online](https://masoft-online.vercel.app)).
-- **FlyRank:** internship assignments ([FlyRank-Internship](https://github.com/imawais-engineer/FlyRank-Internship)).
-- **Hackathons:** YouCam AI Hackathon (Skinova), and Qwen Cloud and OpenAI hackathons.
+- **FlyRank:** internship assignments.
 
 ## Education
 BS Software Engineering, Virtual University of Pakistan.

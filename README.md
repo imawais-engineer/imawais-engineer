@@ -1,8 +1,8 @@
 <h1 align="center">Muhammad Awais</h1>
-<h3 align="center">Aspiring Forward Deployed AI Engineer · AI Automation Engineer · n8n Expert</h3>
+<h3 align="center">Aspiring Forward Deployed AI Engineer · currently AI Automation Engineer</h3>
 
 <p align="center">
-  I embed with a business, find the workflow that costs the most time, and ship an AI system that runs in production: n8n, Make.com, AI agents, MCP servers, RAG and CRM pipelines.
+  AI Automation Engineer working forward deployed: I embed with a business, find the workflow that costs the most time, and ship an AI system that runs in production. n8n, Make.com, AI agents, MCP servers, RAG and CRM pipelines.
 </p>
 
 <p align="center">
@@ -78,10 +78,10 @@ Full list with write-ups: [imawais.engineer/projects](https://imawais.engineer/p
 ## Experience
 - **Freelance AI Automation Engineer** (Upwork, Fiverr, direct clients): n8n, Make.com and AI agent builds for lead generation, CRM, support and reporting.
 - **Founder, MASoft:** software and web projects ([masoft-technologies](https://masoft-technologies.vercel.app), [masoft-online](https://masoft-online.vercel.app)).
-- **FlyRank:** internship assignments.
+- **FlyRank:** internship.
 
 ## Education
-BS Software Engineering, Virtual University of Pakistan.
+BS Software Engineering student, Virtual University of Pakistan.
 
 ## Work with me
 Open to forward deployed AI engineer roles, remote contracts and automation projects.

@@ -74,6 +74,7 @@ Full list with write-ups: [imawais.engineer/projects](https://imawais.engineer/p
 | [Memoria](https://github.com/imawais-engineer/Memoria) | Personal AI with human-like memory |
 | [IdeaForge](https://github.com/imawais-engineer/IdeaForge) | Multi-agent "second brain" that turns vague ideas into structured execution plans |
 | [ClientOutreach](https://github.com/imawais-engineer/ClientOutreach) ([live](https://client-outreach-woad.vercel.app)) | Client outreach tool |
+| [vu-handbook-mcp](https://github.com/imawais-engineer/vu-handbook-mcp) | MCP server for the Virtual University of Pakistan Student Handbook, with cited full-text search for Claude, Cursor and other AI agents |
 
 ## Experience
 - **Freelance AI Automation Engineer** (Upwork, Fiverr, direct clients): n8n, Make.com and AI agent builds for lead generation, CRM, support and reporting.

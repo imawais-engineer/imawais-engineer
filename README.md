@@ -10,7 +10,7 @@
   <a href="https://imawais.engineer/projects">Case studies</a> ·
   <a href="https://imawais.engineer/services">Services</a> ·
   <a href="https://imawais.engineer/contact">Contact</a> ·
-  <a href="https://www.upwork.com/freelancers/awaisai">Upwork</a> ·
+  <a href="https://www.upwork.com/freelancers/~01838e4fc5162aaf52">Upwork</a> ·
   <a href="https://www.fiverr.com/mawais_pk">Fiverr</a> ·
   <a href="https://linkedin.com/in/imawais-engineer">LinkedIn</a> ·
   <a href="https://dev.to/imawais">DEV</a>
